@@ -1,0 +1,42 @@
+40 seconds to backup prod
+19 seconds to restore locally
+
+
+
+Users - Currently chunks of 10k
+40k users total
+I did 2.5k in locally in just under 17 minutes
+3296 in just over 23 minutes
+40k would take about 4 hours local
+40k took 3 hours
+
+Accelerators
+183 accelerators took under 30 seconds (30 seconds with images)
+non founder roles took 6 seconds
+about 30 seconds to generate all accelerator images,
+no startup code yet
+
+Startups 9,078
+14031 slug error
+All ran in 8 minutes
+8k startup images took 10 minutes  (was 8 minutes no images only data)
+
+Startup Founders and Employees
+Done in under 1 minute
+
+Communities
+non yet
+
+Posts 8k
+1k in 2 minutes
+all in 7:34
+
+Comments 983
+2 minutes
+
+
+Total time 3:15 (no image generation)
+
+
+
+
